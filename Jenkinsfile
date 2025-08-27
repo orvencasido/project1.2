@@ -2,7 +2,7 @@ pipeline {
     agent { label 'docker-agent'} 
 
     environment {
-        DOCKER_IMAGE = "orvencasido/project-1"
+        DOCKER_IMAGE = "orvencasido/project-1.2"
     }
 
     stages {
