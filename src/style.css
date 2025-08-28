@@ -66,6 +66,7 @@ body {
 .contact-item .icon {
     margin-right: 10px;
     font-size: 1rem;
+    color: white;
 }
 
 .education-item, .cert-item {
